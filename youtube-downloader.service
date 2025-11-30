@@ -1,0 +1,22 @@
+[Unit]
+Description=YouTube Downloader Web Application
+After=network.target nginx.service
+Wants=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/youtube-downloader
+Environment="PATH=/var/www/youtube-downloader/venv/bin"
+EnvironmentFile=/var/www/youtube-downloader/.env
+ExecStart=/var/www/youtube-downloader/venv/bin/gunicorn --workers 4 --bind 127.0.0.1:8000 --timeout 300 app:app
+Restart=always
+RestartSec=5s
+KillMode=control-group
+PrivateTmp=true
+ProtectSystem=full
+NoNewPrivileges=true
+LimitNOFILE=10000
+
+[Install]
+WantedBy=multi-user.target
