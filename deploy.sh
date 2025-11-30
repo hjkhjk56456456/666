@@ -3,7 +3,7 @@ set -euo pipefail
 
 # 配置
 APP_DIR="/var/www/youtube-downloader"
-REPO_URL="https://github.com/yourusername/youtube-downloader.git"  # 替换为实际仓库URL
+REPO_URL="https://raw.githubusercontent.com/hjkhjk56456456/666.git"  # 替换为实际仓库URL
 VENV_DIR="$APP_DIR/venv"
 LOG_FILE="$APP_DIR/deploy.log"
 
