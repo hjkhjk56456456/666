@@ -52,8 +52,6 @@ CCTV高尔夫网球,https://xmlive.zeabur.app/yw/whyd?id=custom10
 西藏卫视,https://xmlive.zeabur.app/yw/whyd?id=xzws
 海南卫视,https://xmlive.zeabur.app/yw/whyd?id=custom12
 
-
-
 河南移动,#genre#
 中央一套移动,http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 中央二套移动,http://39.165.39.49:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -12697,15 +12695,6 @@ MeWatch Suria,http://156.238.254.169/zb/SMT33558.php?id=Mewatch_Suria
 MeWatch Vasantham,http://156.238.254.169/zb/SMT33558.php?id=Mewatch_Vasantham
 MeWatch CNA,http://156.238.254.169/zb/SMT33558.php?id=Mewatch_cna
 
-
-
-
-
-
-
-
-
-
 ☀影剧-频道,#genre#
 
 天映经典,http://tl.061833.xyz/tl/null-1
@@ -12901,18 +12890,6 @@ MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 Music Reload,http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
 ☀测试直播源,#genre#
 
 
@@ -12996,10 +12973,125 @@ Ymg未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 健康大问诊,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
 健康养生,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
 
+翡翠,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+无线新闻,http://hk.9kds.com/tvbwxxw/
+美亚电影,http://hk.9kds.com/mydy/
+翡翠,http://hk.9kds.com/tvbfc/
+东森电影,http://hk.9kds.com/dsdy/
+无线娱闻,http://hk.9kds.com/tvbylxw/
+黑莓电影,http://47.100.29.86:20009/sxm/hmdy.m3u8
+东森洋片,http://hk.9kds.com/dsyp/
+tvb亚洲,http://hk.9kds.com/tvbyz/
+tvb经典,http://hk.9kds.com/tvbjd/
+纬来电影,http://hk.9kds.com/lhdy/
+TVB DRAMA,http://hls.sohu.blog/665i3/天映经典,http://hls.sohu.blog/e6w0j/AXN台湾,http://hls.sohu.blog/vsico/
+龙翔时代,http://hls.sohu.blog/br8op/
+探索科学,http://hls.sohu.blog/1i42b/TVB娱乐新闻台,http://hls.sohu.blog/lssl9/TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
+TVBE,http://hls.sohu.blog/gukzn/
 
-
-
-.
+☀313直播源更新,#genre#
+民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
+中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
+华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
+台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
+非凡新闻频道,rtmp://f13h.mine.nu/sat/tv581
+东森超视频道,rtmp://f13h.mine.nu/sat/tv331
+纬来育乐频道,rtmp://f13h.mine.nu/sat/tv701
+纬来日本频道,rtmp://f13h.mine.nu/sat/tv771
+纬来体育频道,rtmp://f13h.mine.nu/sat/tv721
+DAZN-体育壹,rtmp://f13h.mine.nu/sat/tv731
+DAZN-体育贰,rtmp://f13h.mine.nu/sat/tv741
+momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
+搜索源：2
+[HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
+[HD]dazn 2,rtmp://f13h.mine.nu/sat/tv741
+[HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
+[HD]中视,rtmp://f13h.mine.nu/sat/tv091
+[HD]台视,rtmp://f13h.mine.nu/sat/tv071
+[HD]东森超视,rtmp://f13h.mine.nu/sat/tv331
+[HD]民視,rtmp://f13h.mine.nu/sat/tv051
+[HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
+[HD]緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+[HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
+[HD]华视,rtmp://f13h.mine.nu/sat/tv111
+[HD]非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+搜索源：3
+[HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
+[HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
+[HD]中视,rtmp://f13h.mine.nu/sat/tv091
+[HD]台视,rtmp://f13h.mine.nu/sat/tv071
+[HD]东森超视,rtmp://f13h.mine.nu/sat/tv331
+[HD]民視,rtmp://f13h.mine.nu/sat/tv051
+[HD]緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+[HD]华视,rtmp://f13h.mine.nu/sat/tv111
+[HD]非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+[HD]dazn1,rtmp://f13h.mine.nu/sat/tv731
+[HD]dazn 2,rtmp://f13h.mine.nu/sat/tv741
+[HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
+搜索源：4
+中视,rtmp://f13h.mine.nu/sat/tv091
+台视,rtmp://f13h.mine.nu/sat/tv071
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+搜索源：5
+纬来体育,rtmp://f13h.mine.nu/sat/tv721$LR•IPV4『线路8』
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701$LR•IPV4『线路2』
+东森超视,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
+搜索源：6
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+民视,rtmp://f13h.mine.nu/sat/tv051
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+华视,rtmp://f13h.mine.nu/sat/tv111
+中视,rtmp://f13h.mine.nu/sat/tv091
+台视,rtmp://f13h.mine.nu/sat/tv071
+华视频道,rtmp://f13h.mine.nu/sat/tv111
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+Mo综合,rtmp://f13h.mine.nu/sat/tv761
+ELE体育1,rtmp://f13h.mine.nu/sat/tv731
+ELE体育2,rtmp://f13h.mine.nu/sat/tv741
+ELE体育3,rtmp://f13h.mine.nu/sat/tv751
+民视,rtmp://f13h.mine.nu/sat/tv051
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+台视,rtmp://f13h.mine.nu/sat/tv071
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+中视,rtmp://f13h.mine.nu/sat/tv091
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+ELE体育3,rtmp://f13h.mine.nu/sat/tv751
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+CTV中视,rtmp://f13h.mine.nu/sat/tv091
+CTS华视,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 
 
