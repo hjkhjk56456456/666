@@ -104,12 +104,6 @@ CCTV5+移动,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv&playli
 文体旅游,http://39.165.39.49:19901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
-
-
-
-
-
-
 广西酒店,#genre#
 CCTV1-综合,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://36.136.38.87:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -12989,8 +12983,7 @@ TVB DRAMA,http://hls.sohu.blog/665i3/天映经典,http://hls.sohu.blog/e6w0j/AX
 探索科学,http://hls.sohu.blog/1i42b/TVB娱乐新闻台,http://hls.sohu.blog/lssl9/TVB J1翡翠台（北美版）,http://hls.sohu.blog/3fmlu/
 TVBE,http://hls.sohu.blog/gukzn/
 
-318更新
-台湾,#genre#
+318更新港澳台九尘F5548k,#genre#
 民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
